@@ -4,7 +4,7 @@ Tags: dynamic block, if, Conditional branch, Conditional Display, Custom Field, 
 Requires at least: 6.4
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 0.9.4
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,6 +34,17 @@ However, by nesting Dynamic If Blocks, various conditional branching can be hand
 3. Dynamic If block in the site editor.
 
 == Changelog ==
+
+= 1.2.0 =
+[ Other ] Prevent automatic migration of old block structure on frontend and migrate to new structure when saving in editor.
+
+= 1.1.0 =
+[ Add Function ] Add page hierarchy conditions (parent/child page) to page type and post type conditions for pages.
+[ Bug fix ] Fix an issue where duplicating the VK Dynamic If Block caused all instances to share the same condition.
+[ Bug fix ] Fix Label color
+
+= 1.0.0 =
+[ Specification Change ] Changed UI to stacked condition format. 
 
 = 0.9.4 =
 [ Other ] Update alert message
