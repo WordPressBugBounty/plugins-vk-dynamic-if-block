@@ -4,7 +4,7 @@ Tags: dynamic block, if, Conditional branch, Conditional Display, Custom Field, 
 Requires at least: 6.4
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 1.4.0
+Stable tag: 1.4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,6 +34,9 @@ However, by nesting Dynamic If Blocks, various conditional branching can be hand
 3. Dynamic If block in the site editor.
 
 == Changelog ==
+
+= 1.4.1 =
+[ Bug fix ] Fix an issue where the date input field is not displayed when "Direct input in this block" is initially selected for display period conditions.
 
 = 1.4.0 =
 [ Add Function ] Add Else block functionality to display alternative content when conditions are not met.
