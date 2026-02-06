@@ -4,7 +4,7 @@ Tags: dynamic block, if, Conditional branch, Conditional Display, Custom Field, 
 Requires at least: 6.4
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 1.4.2
+Stable tag: 1.5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,6 +34,9 @@ However, by nesting Dynamic If Blocks, various conditional branching can be hand
 3. Dynamic If block in the site editor.
 
 == Changelog ==
+
+= 1.5.0 =
+[ Add Function ] Added specific page selection functionality for Page Type conditions.
 
 = 1.4.2 =
 [ Bug fix ] Fix an issue where else block content is cut off in the middle for complex HTML structures.
