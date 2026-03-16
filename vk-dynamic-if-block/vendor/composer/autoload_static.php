@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInit374300b4a370c4748c381677a73b32c8
 {
     public static $prefixLengthsPsr4 = array (
-        'V' => 
+        'V' =>
         array (
             'VektorInc\\VK_Helpers\\' => 21,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'VektorInc\\VK_Helpers\\' => 
+        'VektorInc\\VK_Helpers\\' =>
         array (
             0 => __DIR__ . '/..' . '/vektor-inc/vk-helpers/src',
         ),
