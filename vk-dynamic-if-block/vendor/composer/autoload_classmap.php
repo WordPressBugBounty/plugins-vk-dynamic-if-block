@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
+    'VektorInc\\VK_Helpers\\VkHelpers' => $vendorDir . '/vektor-inc/vk-helpers/src/VkHelpers.php',
 );

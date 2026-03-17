@@ -22,6 +22,7 @@ class ComposerStaticInit374300b4a370c4748c381677a73b32c8
 
     public static $classMap = array (
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
+        'VektorInc\\VK_Helpers\\VkHelpers' => __DIR__ . '/..' . '/vektor-inc/vk-helpers/src/VkHelpers.php',
     );
 
     public static function getInitializer(ClassLoader $loader)
